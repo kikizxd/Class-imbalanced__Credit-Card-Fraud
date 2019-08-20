@@ -54,6 +54,10 @@ SMOTE有时能提升分类准确率，有时不能，甚至可能因为构建数
 
 尝试了多种方法，以此数据案例结果来看，法二XGboost模型比较好，当然最优结果不止局限于此，大家可以尝试其它方法优化结果
 
+**数据下载**
+
+链接：https://pan.baidu.com/s/1s4V9684ij-ZTCSZvpdcfaw      提取码：cd7m 
+
 **法一：SMOTE算法、LR模型以及阈值移动的方法**
 
 参见代码--credictcard_smote_LR_threshold.py
