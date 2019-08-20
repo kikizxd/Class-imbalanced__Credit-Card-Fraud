@@ -56,7 +56,7 @@ SMOTE有时能提升分类准确率，有时不能，甚至可能因为构建数
 
 **法一：SMOTE算法、LR模型以及阈值移动的方法**
 
-参见credictcard_smote_LR_threshold.py
+参见代码--credictcard_smote_LR_threshold.py
 
 混淆矩阵如下所示
 
@@ -64,7 +64,7 @@ SMOTE有时能提升分类准确率，有时不能，甚至可能因为构建数
 
 **法二：算法集成技术XGBoost**
 
-参见代码--参见creditcard_xgboost_threshold.py
+参见代码--creditcard_xgboost_threshold.py
 
 混淆矩阵如下所示
 
