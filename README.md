@@ -56,7 +56,9 @@ SMOTE有时能提升分类准确率，有时不能，甚至可能因为构建数
 
 **数据下载**
 
-链接：https://pan.baidu.com/s/1s4V9684ij-ZTCSZvpdcfaw      提取码：cd7m 
+链接：https://pan.baidu.com/s/1QBNjspcGfKfML3h8KpFNvA 
+
+提取码：wvrc 
 
 **法一：SMOTE算法、LR模型以及阈值移动的方法**
 
